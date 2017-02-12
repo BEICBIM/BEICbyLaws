@@ -22,7 +22,7 @@ e. The following are examples of commonly used expenditures:
 
   * (5) Death of immediate family members (parent, sibling, or dependent): Flowers will be sent not to exceed the initial contribution value (set yearly as described in 7.a) for each year. 
 
- * (6) Hospitalization (member or dependent): Flowers will be sent not to exceed the initial contribution value (set yearly as described in 7.a) for each year. 
+  * (6) Hospitalization (member or dependent): Flowers will be sent not to exceed the initial contribution value (set yearly as described in 7.a) for each year. 
 
   * (7) When proposed by one or more committee chairs and with the approval of the President, budgeted expenses for project based learning sessions, hackathon - charrettes, and new-member parties.  Amount not to exceed proposed and voted on budget.
 
