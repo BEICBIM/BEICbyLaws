@@ -7,8 +7,8 @@ Version 1.0
 3. Organization of BEIC.
 4. Roles of the Board of Directors.
 5. Meetings.
-6. The Purpose of BEIC Assets, Property, and Resources.
-7. Management of BEIC Assets, Property, and Resources. 
+6. The Purpose of BEIC Assets, Property, & Resources.
+7. Management of BEIC Assets, Property, & Resources. 
 8. BEIC Assets, Property, & Resources Audits.
 9. Liability of Members.
 10. Changes to the By Laws of BEIC.
