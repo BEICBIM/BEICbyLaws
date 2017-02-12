@@ -8,7 +8,7 @@ b. The ED/AM will be appointed by the President. This person should not be respo
  
   * (2) Collect quarterly dues, notifying the President of any delinquent members within 30 days of the quarterly due date. 
 
-(3) Ensure that all financial transactions through bear either his or her signature. 
+  *(3) Ensure that all financial transactions through bear either his or her signature. 
 
 (4) Present a financial report for the President at each regularly scheduled meeting. Ensure that an annual financial statement of the  be available for review by  members by 30 September annually. 
 
