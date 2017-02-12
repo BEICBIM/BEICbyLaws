@@ -8,7 +8,7 @@ BEIC By Laws Version 1.0
 5. [Meetings.](https://github.com/BEICBIM/BEICByLaws/blob/master/Meetings.md)
 6. [The Purpose of BEIC Assets, Property, & Resources.](https://github.com/BEICBIM/BEICByLaws/blob/master/PurposeofBEICAPR.md)
 7. [Management of BEIC Assets, Property, & Resources.](https://github.com/BEICBIM/BEICByLaws/blob/master/ManageBEICAPR.md)
-8. BEIC Assets, Property, & Resources Audits.
+8. [BEIC Assets, Property, & Resources Audits.](https://github.com/BEICBIM/BEICByLaws/blob/master/BEICAPRAudits.md)
 9. Liability of Members.
 10. Changes to the By Laws of BEIC.
 11. Review Responsibility.
