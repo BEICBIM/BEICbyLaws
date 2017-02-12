@@ -1,4 +1,4 @@
-# Roles of the Board of Directors.
+# 4. Roles of the Board of Directors.
 
 a. The President of BEIC shall be a licensed engineer or architect, who shall approve the agenda and receive quarterly input from the Executive Director/Asset Manager (ED/AM). The ED/AM is responsible for bringing any complaints or concerns to the President for resolution. 
 
