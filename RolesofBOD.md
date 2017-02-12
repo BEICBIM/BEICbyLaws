@@ -22,7 +22,7 @@ b. The ED/AM will be appointed by the President. This person should not be respo
 
   * (9) Have the power to utilize BEIC assets, property, or resources as necessary for new member and sustaining member recognition events and items noted in Section 7. 
 
-c. Committee Directors Chairs or Representatives. Each committee will designate one officer as a chair or representative. Committee Representatives are responsible for: 
+c. Committee Directors, Chairs, or Representatives. Each committee will designate one officer as a chair or representative. Committee Representatives are responsible for: 
 
   * (1) Collecting quarterly dues. 
 
