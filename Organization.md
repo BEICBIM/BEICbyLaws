@@ -1,4 +1,4 @@
-# 3. Organization of BEIC
+# 3. Organization of BEIC.
 
 BEIC is open to students and educators, as well as licensed or credentialed professionals and qualified technicians of the open source built environment industry. The BoD will conduct the day-to-day administration of the BEIC. The BoD shall include the President and Executive Director/Asset Manager (ED/AM). Below are examples of student, educator, and professional categories eligible to join BEIC: 
 
