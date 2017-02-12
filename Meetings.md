@@ -1,4 +1,4 @@
-# Meetings
+# 5. Meetings
 
 a. Members/Meetings.  Meetings of BEIC shall be held at the discretion of the President and/or ED/AM.
  
