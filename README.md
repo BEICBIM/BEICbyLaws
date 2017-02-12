@@ -4,7 +4,7 @@ Version 1.0
 
 1. [Purpose.](https://github.com/BEICBIM/BEICByLaws/blob/master/Purpose.md)
 2. [Cancellation.](https://github.com/BEICBIM/BEICByLaws/blob/master/Cancellation.md)
-3. Organization of BEIC.
+3. [Organization of BEIC.](https://github.com/BEICBIM/BEICByLaws/blob/master/Organization.md)
 4. Roles of the Board of Directors.
 5. Meetings.
 6. The Purpose of BEIC Assets, Property, & Resources.
