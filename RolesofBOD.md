@@ -4,9 +4,9 @@ a. The President of BEIC shall be a licensed engineer or architect, who shall ap
 
 b. The ED/AM will be appointed by the President. This person should not be responsible for any other position that handles BEIC assets, property, or resources. The ED/AM shall: 
 
-  (1) Maintain a complete record of financial transactions conducted by the BEIC with appropriate supporting documentation.
+..(1) Maintain a complete record of financial transactions conducted by the BEIC with appropriate supporting documentation.
  
-  (2) Collect quarterly dues, notifying the President of any delinquent members within 30 days of the quarterly due date. 
+..(2) Collect quarterly dues, notifying the President of any delinquent members within 30 days of the quarterly due date. 
 
   (3) Ensure that all financial transactions through bear either his or her signature. 
 
