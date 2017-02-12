@@ -3,7 +3,7 @@ The By Laws of the Built Environment Innovation Cooperative (BEIC)
 Version 1.0
 
 1. [Purpose.](https://github.com/BEICBIM/BEICByLaws/blob/master/Purpose.md)
-2. Cancellation.
+2. [Cancellation.](https://github.com/BEICBIM/BEICByLaws/blob/master/Cancellation.md)
 3. Organization of BEIC.
 4. Roles of the Board of Directors.
 5. Meetings.
