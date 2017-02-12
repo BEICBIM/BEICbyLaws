@@ -1,6 +1,5 @@
-# BEICByLaws
-The By Laws of the Built Environment Innovation Cooperative (BEIC)
-Version 1.0
+# By Laws of the Built Environment Innovation Cooperative
+BEIC By Laws Version 1.0
 
 1. [Purpose.](https://github.com/BEICBIM/BEICByLaws/blob/master/Purpose.md)
 2. [Cancellation.](https://github.com/BEICBIM/BEICByLaws/blob/master/Cancellation.md)
