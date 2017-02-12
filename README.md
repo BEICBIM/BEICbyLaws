@@ -11,4 +11,4 @@ BEIC By-Laws Version 1.0
 8. [BEIC Assets, Property, & Resources Audits.](https://github.com/BEICBIM/BEICByLaws/blob/master/BEICAPRAudits.md)
 9. [Liability of Members.](https://github.com/BEICBIM/BEICByLaws/blob/master/LiabilityofMembers.md)
 10. [Changes to the By-Laws of BEIC.](https://github.com/BEICBIM/BEICByLaws/blob/master/ByLawChanges.md)
-11. Review Responsibility.
+11. [Review Responsibility.](https://github.com/BEICBIM/BEICByLaws/blob/master/ReviewResponsiblity.md)
