@@ -10,7 +10,7 @@ c. Planners
 
 d. Realty Professionals & Developers
 
-e. Facility Managers
+e. Construction & Facility Managers
 
 f. Built Environment System Technicians and Programmers  
 
