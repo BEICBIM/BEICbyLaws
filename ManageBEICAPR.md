@@ -2,7 +2,7 @@
 
 Assets, property, and resources are managed and administered solely by the BoD.  The ED/AM shall maintain the BEIC wallet and will be governed by the enumeration of the duties of the ED/AM per these By-Laws. The functions include: 
 
-a. BEIC membership will be accomplished via an initial individual contribution or negotiated organizational buy in with Bitcoin (BTC) or Ethereum (ETH), in value roughly equal in value to $50 (USD) per individual determined yearly.  This buy-in may be waived for active duty students or student veterans with honorable discharges. 
+a. BEIC membership will be accomplished via an initial individual contribution or negotiated organizational buy in with Bitcoin (BTC) or Ethereum (ETH), in value roughly equal in value to $50 (USD) per individual determined yearly.  This buy-in may be waived for active duty military students or student veterans with honorable discharges. 
 
 b. Dues will be collected each quarter in the amount set to 40% of the initial contribution value (set yearly as described in 7.a) per member.  Dues may be waived for documented active duty students or student veterans (with honorable discharges) during the period of time they are a student.  Any portion of a month in which a member joins/leaves of greater than 15 days on board will be billed as a full month. Members will transmit  quarterly or yearly amount in relation to the month they joined BEIC. 
 
