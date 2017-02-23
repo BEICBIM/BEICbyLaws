@@ -5,8 +5,8 @@ Assets, property, and resources are managed and administered solely by the BoD. 
 a. BEIC membership will be accomplished via an initial individual contribution or negotiated organizational buy in with Bitcoin (BTC) or Ethereum (ETH), in value roughly equal in value to $50 (USD) per individual determined yearly.  This buy-in may be waived, with the approval of the board of directors for: 
 
 * Active duty US military students or student veterans with honorable discharges.
-* Student members of the ACE Mentor Program of America.
-* Mentors or volunteer members of the ACE Mentor Program of America.
+* Student members of the [ACE Mentor Program of America](http://www.acementor.org/).
+* Mentors or volunteer members of the [ACE Mentor Program of America](http://www.acementor.org/).
 
 b. Dues will be collected each quarter in the amount set to 40% of the initial contribution value (set yearly as described in 7.a) per member.  Dues may be waived for documented active duty students or student veterans (with honorable discharges) during the period of time they are a student.  Any portion of a month in which a member joins/leaves of greater than 15 days on board will be billed as a full month. Members will transmit  quarterly or yearly amount in relation to the month they joined BEIC. 
 
