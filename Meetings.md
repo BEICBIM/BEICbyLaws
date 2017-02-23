@@ -1,6 +1,6 @@
 # 5. Meetings
 
-a. Members/Meetings.  Meetings of BEIC shall be held at the discretion of the President and/or ED/AM.
+a. Members/Meetings.  Meetings of BEIC shall be held at the discretion of the President and/or ED/AM.  Conduct of meetings and decision making process will follow [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert's_Rules_of_Order).
  
 b. Appointments.  Appointment of the Leadership will be conducted by the President.
  
