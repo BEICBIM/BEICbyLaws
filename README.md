@@ -9,6 +9,7 @@ The Built Environment Innovation Cooperative (BEIC) has by-laws that regulate it
 * Foster demand for members’ products and services.
 
 BEIC's By-Laws are established as set forth in the following:
+
 1. [Purpose.](https://github.com/BEICBIM/BEICByLaws/blob/master/Purpose.md)
 2. [Cancellation.](https://github.com/BEICBIM/BEICByLaws/blob/master/Cancellation.md)
 3. [Organization of BEIC.](https://github.com/BEICBIM/BEICByLaws/blob/master/Organization.md)
