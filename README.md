@@ -23,3 +23,7 @@ BEIC's By-Laws are established as set forth in the following:
 11. [Review Responsibility.](https://github.com/BEICBIM/BEICByLaws/blob/master/ReviewResponsiblity.md)
 
 ![The MET: Bononiensis de architectura libri quinque quibus cuncta fere architectonicae facultatis mysteria docte, perspicue](http://images.metmuseum.org/CRDImages/li/original/li120%20Se6.R.jpg)
+
+See [Contribute.md](https://github.com/BEICBIM/BEICByLaws/blob/master/Contribute.md) for information about contributing to this  repository.
+
+Content in the By-Laws of the Built Environment Innovation Cooperative (BEIC) repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICByLaws/blob/master/License.md).
