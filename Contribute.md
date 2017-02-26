@@ -7,7 +7,7 @@ Open Source projects in repositories managed by BEIC generally follow the "GitHu
 Please check this content out at the URL:
 https://guides.github.com/activities/contributing-to-open-source/
 
-Collaboration on this content also happens on BEIC's associated [Slack channel](https://beico-op.slack.com/messages/bylaws/details/).
+Collaboration on this content also happens on BEIC's associated [Slack channel](https://beico-op.slack.com/messages/bylaws/details/).  To affiliate with the Built Environment Innovation Cooperative, start by telling us a little about you or you organization on [BEIC's Afilliation Form](https://docs.google.com/forms/d/e/1FAIpQLSdjlDQRn-31gqJOIaE5mJFiDzCgRSvjKrhIYE_iU36ZzLzeJg/viewform).
 
 Thanks for your interest and use this content as your guide for being an effective contributor on open source built environment innovation projects.
 
