@@ -5,6 +5,7 @@ Assets, property, and resources are managed and administered solely by the BoD. 
 a. BEIC membership will be accomplished via an initial individual contribution or negotiated organizational buy in with Bitcoin (BTC) or Ethereum (ETH), in value roughly equal in value to $50 (USD) per individual determined yearly.  This buy-in may be waived, with the approval of the board of directors for: 
 
 * Active duty US military students or student veterans with honorable discharges.
+* Dependant family members of active duty US military members who are students.
 * Student members of the [ACE Mentor Program of America](http://www.acementor.org/).
 * Mentors or volunteer members of the [ACE Mentor Program of America](http://www.acementor.org/).
 
