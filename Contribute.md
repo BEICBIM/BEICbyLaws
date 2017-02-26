@@ -1,11 +1,13 @@
-# Contribute to the By-Laws of the Built Environment Innovation Cooperative
+# Contribute to the By-Laws of the [Built Environment Innovation Cooperative](https://beicoop.wordpress.com/)
 
 The Built Environment Innovation Cooperative (BEIC) manages educational and collaborative efforts aimed at built environment related innovations as project repositories (like these By-Laws) on GitHub. 
 
 Open Source projects in repositories managed by BEIC generally follow the "GitHub Guides" content on "Contributing to Open Source on GitHub".
 
-Please check this content out at the URL below:
+Please check this content out at the URL:
 https://guides.github.com/activities/contributing-to-open-source/
+
+Collaboration on this content also happens on BEIC's associated [Slack channel](https://beico-op.slack.com/messages/bylaws/details/).
 
 Thanks for your interest and use this content as your guide for being an effective contributor on open source built environment innovation projects.
 
