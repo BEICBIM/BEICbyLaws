@@ -1,6 +1,6 @@
 #Counsel Comittee Content:
 
-1. [Affiliation Agreement](https://github.com/BEICBIM/BEICByLaws/edit/master/Committees/Counsel/AffiliationAgreement.md)
+1. [Affiliation Agreement](https://github.com/BEICBIM/BEICByLaws/master/Committees/Counsel/AffiliationAgreement.md)
 
 See [Contribute.md](https://github.com/BEICBIM/BEICByLaws/blob/master/Contribute.md) for information about contributing to this  repository.
 
